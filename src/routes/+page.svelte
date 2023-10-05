@@ -4,5 +4,5 @@
 </script>
 
 <PtContainer>
-	<!-- <PtInputForm /> -->
+	<PtInputForm />
 </PtContainer>
